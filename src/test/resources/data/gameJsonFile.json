@@ -1,0 +1,19 @@
+[
+  {
+    "gameId": 1,
+    "name": "InsideOut2",
+    "releaseDate": "2021-01-01",
+    "reviewScore": 85,
+    "category": "Adventure",
+    "rating": "Universal"
+  },
+  {
+    "gameId": 2,
+    "name": "IF",
+    "releaseDate": "2021-02-01",
+    "reviewScore": 90,
+    "category": "Action",
+    "rating": "Teen"
+  }
+
+]
